@@ -59,14 +59,10 @@ article_id/title/body
 
 ## App Info
 
-### Author
+### Autor
 
-Brad Traversy
+Bexter
 [Bexter Design](http://www.bexter.rs)
-
-### Version
-
-1.0.0
 
 ### License
 
